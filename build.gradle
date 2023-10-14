@@ -4,17 +4,9 @@ buildscript {
         google()
         mavenCentral()
         maven { url 'https://jitpack.io' }
-        maven { url "https://s01.oss.sonatype.org/content/groups/public" }
-        maven { url "https://maven.aliyun.com/nexus/content/repositories/google" }
-        maven { url "https://maven.aliyun.com/repository/public" }
-        maven { url "https://maven.aliyun.com/nexus/content/repositories/jcenter"}
-        maven { url "https://developer.huawei.com/repo/" }
-        maven {url "https://maven.aliyun.com/repository/public"}  //替代 jcenter() , mavenCentral()
-        maven {url "https://maven.aliyun.com/repository/google"}  //替代google()
     }
     dependencies {
         classpath "com.android.tools.build:gradle:4.2.1"
-        classpath 'com.github.dcendents:android-maven-gradle-plugin:2.1'
     }
 }
 
@@ -24,13 +16,6 @@ allprojects {
         google()
         mavenCentral()
         maven { url 'https://jitpack.io' }
-        maven { url "https://s01.oss.sonatype.org/content/groups/public" }
-        maven { url "https://maven.aliyun.com/nexus/content/repositories/google" }
-        maven { url "https://maven.aliyun.com/repository/public" }
-        maven { url "https://maven.aliyun.com/nexus/content/repositories/jcenter"}
-        maven { url "https://developer.huawei.com/repo/" }
-        maven {url "https://maven.aliyun.com/repository/public"}  //替代 jcenter() , mavenCentral()
-        maven {url "https://maven.aliyun.com/repository/google"}  //替代google()
     }
 }
 

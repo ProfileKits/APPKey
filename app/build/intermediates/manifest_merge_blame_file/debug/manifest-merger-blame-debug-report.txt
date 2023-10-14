@@ -39,7 +39,7 @@
 21        android:allowBackup="true"
 21-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:14:9-35
 22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-22-->[androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+22-->[androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/3f9f631476426a59c6012284c2eef2e3/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
 23        android:debuggable="true"
 24        android:icon="@mipmap/ic_launcher"
 24-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:16:9-43
