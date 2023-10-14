@@ -1,0 +1,78 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.predictor.vijoz"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:5:5-79
+12-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:6:5-76
+13-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:6:22-73
+14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+14-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:7:5-75
+14-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:7:22-72
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:8:5-80
+15-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:8:22-77
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:9:5-81
+16-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+17-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:10:5-81
+17-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:10:22-79
+18
+19    <application
+19-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:12:5-32:19
+20        android:name="com.predictor.vijoz.app.MyApplication"
+20-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:13:9-61
+21        android:allowBackup="true"
+21-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:14:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:16:9-43
+25        android:label="@string/app_name"
+25-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:17:9-41
+26        android:requestLegacyExternalStorage="true"
+26-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:19:9-52
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:18:9-54
+28        android:supportsRtl="true"
+28-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:20:9-35
+29        android:testOnly="true"
+30        android:theme="@style/Theme.NoTitleBar"
+30-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:21:9-48
+31        android:usesCleartextTraffic="true" >
+31-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:15:9-44
+32        <activity
+32-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:23:9-30:20
+33            android:name="com.predictor.vijoz.ui.MainActivity"
+33-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:24:13-63
+34            android:exported="true" >
+34-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:25:13-36
+35            <intent-filter>
+35-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:26:13-29:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:27:17-69
+36-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:28:17-77
+38-->/Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:28:27-74
+39            </intent-filter>
+40        </activity>
+41    </application>
+42
+43</manifest>

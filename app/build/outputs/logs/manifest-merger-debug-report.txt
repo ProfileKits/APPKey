@@ -1,0 +1,212 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+MERGED from [com.google.android.material:material:1.2.1] /Users/VIJOZ/gradle/caches/transforms-3/4b152aa2eaa5115effe6bdeab6f7332b/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/VIJOZ/gradle/caches/transforms-3/df5aa2f65a4cea5ed9b5a38bb7f744f8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/a1dc4d22df24937b658dc58bee0e7357/transformed/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/49ff21bffe328ab372dfb3025944234b/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/4aa6b9684401dde37424b6332beb0b62/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/VIJOZ/gradle/caches/transforms-3/530ec4561081687c75a6004fa3b496c9/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/281e263e73512752edd1e3bad8ede220/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/b8db3a8fdf50347285aeddfe4ed703e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/654138c15463c3c505189f896bd5303f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/98474ab6ee09119404a52f1b3887fa26/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/bb25c4e6aedf04c1bbf19eb481bb0861/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e2aeebe6f8a6e988db43588d53117fcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/VIJOZ/gradle/caches/transforms-3/3131ea2424a06f3c412288e87c091243/transformed/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/30b01369e275b48e25a9d908ac49e904/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e1f712f7eed42b7db035fc63967dde70/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/VIJOZ/gradle/caches/transforms-3/123b8eaaa6dca1ff53f0a978e9cbc4a2/transformed/jetified-activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/9f22e07ed7a9dddc6f979dc0bace9709/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/VIJOZ/gradle/caches/transforms-3/56c2402ee492dac3009b8036eeb2e153/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/5ba9c569838be157bdcf4fa0893daf31/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/f3b27114627b63bb7ab13f79ba2b9ab4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/a005f91aa87e122b446cc9c7f0a79df9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/fe7dc0f793a920226a348c0ffb28e0f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/f8a50a6533518751f45d0fefa4acc8c5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/VIJOZ/gradle/caches/transforms-3/be1c55235e4f65e507d36a02f19de050/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/560cb5333436465a558cc2057b7d31e5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/VIJOZ/gradle/caches/transforms-3/845a7e2af93d86eedbb9caa55a369870/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/46fcec9ce7741c23f042e211ab8cee06/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/10c605985f31f6ff91517bb03a4d0d68/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/af95e439e8cac81b507a157bedb39f5e/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+	package
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:1-34:12
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:5:5-79
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:6:5-76
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-76
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:6:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:7:5-75
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-75
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:5-75
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:7:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:8:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:10:22-79
+application
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:12:5-32:19
+MERGED from [com.google.android.material:material:1.2.1] /Users/VIJOZ/gradle/caches/transforms-3/4b152aa2eaa5115effe6bdeab6f7332b/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /Users/VIJOZ/gradle/caches/transforms-3/4b152aa2eaa5115effe6bdeab6f7332b/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/VIJOZ/gradle/caches/transforms-3/df5aa2f65a4cea5ed9b5a38bb7f744f8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/VIJOZ/gradle/caches/transforms-3/df5aa2f65a4cea5ed9b5a38bb7f744f8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/VIJOZ/gradle/caches/transforms-3/56c2402ee492dac3009b8036eeb2e153/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/VIJOZ/gradle/caches/transforms-3/56c2402ee492dac3009b8036eeb2e153/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:19:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:17:9-41
+	android:roundIcon
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:21:9-48
+	android:usesCleartextTraffic
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:13:9-61
+activity#com.predictor.vijoz.ui.MainActivity
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:23:9-30:20
+	android:exported
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:24:13-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml:28:27-74
+uses-sdk
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] /Users/VIJOZ/gradle/caches/transforms-3/4b152aa2eaa5115effe6bdeab6f7332b/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /Users/VIJOZ/gradle/caches/transforms-3/4b152aa2eaa5115effe6bdeab6f7332b/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/VIJOZ/gradle/caches/transforms-3/df5aa2f65a4cea5ed9b5a38bb7f744f8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/VIJOZ/gradle/caches/transforms-3/df5aa2f65a4cea5ed9b5a38bb7f744f8/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:Encipher] /Users/VIJOZ/Android/FlyCode/CodeKey/Encipher/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/a1dc4d22df24937b658dc58bee0e7357/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/a1dc4d22df24937b658dc58bee0e7357/transformed/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/49ff21bffe328ab372dfb3025944234b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/49ff21bffe328ab372dfb3025944234b/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/4aa6b9684401dde37424b6332beb0b62/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/4aa6b9684401dde37424b6332beb0b62/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/VIJOZ/gradle/caches/transforms-3/530ec4561081687c75a6004fa3b496c9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/VIJOZ/gradle/caches/transforms-3/530ec4561081687c75a6004fa3b496c9/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/281e263e73512752edd1e3bad8ede220/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/VIJOZ/gradle/caches/transforms-3/281e263e73512752edd1e3bad8ede220/transformed/jetified-appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/b8db3a8fdf50347285aeddfe4ed703e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/b8db3a8fdf50347285aeddfe4ed703e1/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/654138c15463c3c505189f896bd5303f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/654138c15463c3c505189f896bd5303f/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/98474ab6ee09119404a52f1b3887fa26/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/98474ab6ee09119404a52f1b3887fa26/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/bb25c4e6aedf04c1bbf19eb481bb0861/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/bb25c4e6aedf04c1bbf19eb481bb0861/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e2aeebe6f8a6e988db43588d53117fcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e2aeebe6f8a6e988db43588d53117fcb/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/VIJOZ/gradle/caches/transforms-3/3131ea2424a06f3c412288e87c091243/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/VIJOZ/gradle/caches/transforms-3/3131ea2424a06f3c412288e87c091243/transformed/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/30b01369e275b48e25a9d908ac49e904/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/30b01369e275b48e25a9d908ac49e904/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e1f712f7eed42b7db035fc63967dde70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/e1f712f7eed42b7db035fc63967dde70/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.3] /Users/VIJOZ/gradle/caches/transforms-3/123b8eaaa6dca1ff53f0a978e9cbc4a2/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/VIJOZ/gradle/caches/transforms-3/123b8eaaa6dca1ff53f0a978e9cbc4a2/transformed/jetified-activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/9f22e07ed7a9dddc6f979dc0bace9709/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/9f22e07ed7a9dddc6f979dc0bace9709/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0] /Users/VIJOZ/gradle/caches/transforms-3/0c40b79363fb5ed70f345fa97b27abbb/transformed/core-1.5.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/VIJOZ/gradle/caches/transforms-3/56c2402ee492dac3009b8036eeb2e153/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/VIJOZ/gradle/caches/transforms-3/56c2402ee492dac3009b8036eeb2e153/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/5ba9c569838be157bdcf4fa0893daf31/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/5ba9c569838be157bdcf4fa0893daf31/transformed/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/f3b27114627b63bb7ab13f79ba2b9ab4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/f3b27114627b63bb7ab13f79ba2b9ab4/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/a005f91aa87e122b446cc9c7f0a79df9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/a005f91aa87e122b446cc9c7f0a79df9/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/fe7dc0f793a920226a348c0ffb28e0f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/VIJOZ/gradle/caches/transforms-3/fe7dc0f793a920226a348c0ffb28e0f1/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/f8a50a6533518751f45d0fefa4acc8c5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/f8a50a6533518751f45d0fefa4acc8c5/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/VIJOZ/gradle/caches/transforms-3/be1c55235e4f65e507d36a02f19de050/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/VIJOZ/gradle/caches/transforms-3/be1c55235e4f65e507d36a02f19de050/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/560cb5333436465a558cc2057b7d31e5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/VIJOZ/gradle/caches/transforms-3/560cb5333436465a558cc2057b7d31e5/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/VIJOZ/gradle/caches/transforms-3/845a7e2af93d86eedbb9caa55a369870/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/VIJOZ/gradle/caches/transforms-3/845a7e2af93d86eedbb9caa55a369870/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/46fcec9ce7741c23f042e211ab8cee06/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/46fcec9ce7741c23f042e211ab8cee06/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/10c605985f31f6ff91517bb03a4d0d68/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/10c605985f31f6ff91517bb03a4d0d68/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/af95e439e8cac81b507a157bedb39f5e/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] /Users/VIJOZ/gradle/caches/transforms-3/af95e439e8cac81b507a157bedb39f5e/transformed/jetified-annotation-experimental-1.0.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		ADDED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/VIJOZ/Android/FlyCode/CodeKey/app/src/main/AndroidManifest.xml
