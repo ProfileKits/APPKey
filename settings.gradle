@@ -1,0 +1,3 @@
+rootProject.name = "CodeEffect"
+include ':app'
+include ':Encipher'
